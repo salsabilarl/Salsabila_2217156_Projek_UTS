@@ -27,6 +27,4 @@ public class JajaranGenjang {
     public double getKeliling() {
         return (alas+sisiMiring)*2;
     }
-    
-    
 }
